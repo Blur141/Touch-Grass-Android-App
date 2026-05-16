@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_description">Your digital detox companion</string>
+    <string name="app_name">Touch Grass</string>
+    <string name="nav_challenges">Challenges</string>
+    <string name="nav_focus">Focus</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_pet">Plant</string>
+    <string name="nav_stats">Stats</string>
+    <string name="notification_channel_challenge">Challenges</string>
+    <string name="notification_channel_focus">Focus Mode</string>
+    <string name="notification_channel_pet">Your Plant</string>
+    <string name="notification_channel_tracking">Screen Time Tracking</string>
+    <string name="permission_notification_desc">We will send you funny reminders to go outside. We promise not to spam.</string>
+    <string name="permission_notification_title">Notifications Required</string>
+    <string name="permission_usage_stats_desc">Touch Grass needs usage access to track your screen time and help you stay offline.</string>
+    <string name="permission_usage_stats_title">Usage Access Required</string>
+    <style name="Theme.TouchGrass" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

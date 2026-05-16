@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.touchgrass.ui.screens.focus.FocusViewModel
